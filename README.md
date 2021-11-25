@@ -1,5 +1,10 @@
+<h1>Greetings! I'm Dimas.</h1>
+<h4>Currently working as software developer in IT Consultant <a href="https://www.ecomindo.com/">eComindo</a></h4>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samid77)](https://github.com/anuraghazra/github-readme-stats)
+**I do code some in:**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samid77)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"></code>
+<code><img height="20" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg"></code> 
+<code><img height="20" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></code> 
