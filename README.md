@@ -1,4 +1,4 @@
-<h1>Greetings! I'm Dimas.</h1>
+<h1>Greetings!</h1>
 <h4>Currently working as Software Engineer in IT Consulting Firm <a href="https://www.ecomindo.com/">eComindo</a></h4>
 
 **I do code some in:**  
