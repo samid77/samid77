@@ -7,7 +7,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"></code>
 <code><img height="20" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg"></code> 
-<code><img height="20" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></code> 
+<code><img height="20" src="https://img2.pngdownload.id/20180728/rrq/kisspng-dart-logo-programming-language-computer-programmin-python-stickers-5b5cab4fa0e594.4252391015327998236591.jpg"></code> 
 
 
 <h4>Lets connect !</h4>
