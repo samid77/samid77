@@ -1,5 +1,5 @@
 <h1>Greetings!</h1>
-<h4>Currently working as Software Engineer in IT Consulting Firm <a href="https://www.ecomindo.com/">EComindo</a></h4>
+<h4>Currently working as Software Engineer in IT Consulting Firm <a href="https://www.ecomindo.com/">Ecomindo</a></h4>
 
 **I do code some in:**  
 
